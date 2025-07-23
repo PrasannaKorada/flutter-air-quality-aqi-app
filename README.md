@@ -31,3 +31,19 @@ This is a Flutter application that visualizes real-time Air Quality Index (AQI) 
    ```bash
    flutter pub get
    flutter run
+4. Make sure Firebase is initialized in your project (google-services.json or GoogleService-Info.plist if needed).
+5. 🧱 Dependencies
+   ```bash
+    http: ^1.1.0  
+    geolocator: ^14.0.2  
+    google_maps_flutter: ^2.6.0  
+    fl_chart: ^1.0.0  
+    firebase_core: ^3.15.0  
+    firebase_messaging: ^15.2.8  
+
+## 🧑‍💻 Author
+Prasanna Korada
+  
+
+
+
